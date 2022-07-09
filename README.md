@@ -1,6 +1,24 @@
 # Nils_Portfolio
-example Portfolio
 
-# Vorhersage Studienerfolg 
-*Studenten und dessen Vorerfahrungen tracken
-*Modelle bauen zum vorhersagen der Exmatirkulation
+Kompetenzen die gezeigt werden sollen:
+
+# Datenstrukturen
+Umgang mit Strukturierten Daten (SQL)
+Umgang mit Unstrukturierten Daten (NoSQL, PySpark)
+
+# Explanatory Data Analasis 
+- Descriptive (correlation etc. in the data)
+- Inscriptive (generalize beyond the colected data)
+- Visualization (Matplotlib, Seaborn, Plotly/ Plotly Express)
+
+# Data Preprocessing 
+- Numpy, Pandas, SciPy
+- Scikit-learn
+
+# Machine Learning
+- Tensorflow, Pytorch
+- Scikit-learn
+
+# Nice to Show
+- Best Practice Software Engineering 
+- DevOps (Git, Docker), ML Ops (ML Flow, Ketro, Airflow)
