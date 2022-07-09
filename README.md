@@ -2,5 +2,5 @@
 example Portfolio
 
 # Vorhersage Studienerfolg 
-*Studenten und dessen Vorerfarhungen tracken
+*Studenten und dessen Vorerfahrungen tracken
 *Modelle bauen zum vorhersagen der Exmatirkulation
