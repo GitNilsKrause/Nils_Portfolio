@@ -20,5 +20,5 @@ Umgang mit Unstrukturierten Daten (NoSQL, PySpark)
 - Scikit-learn
 
 # Nice to Show
-- Best Practice Software Engineering 
+- Best Practice Software Engineering (Clean Code, Modularize, (Refactoring, Testing))
 - DevOps (Git, Docker), ML Ops (ML Flow, Ketro, Airflow)
